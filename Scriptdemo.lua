@@ -2,8 +2,8 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
 
        local Window = MakeWindow({
          Hub = {
-         Title = "vinh the ??p trai",
-         Animation = "Youtube: hack c?a vinh"
+         Title = "vinh the đẹp trai",
+         Animation = "Youtube: hack của vinh"
          },
         Key = {
         KeySystem = false,
@@ -134,10 +134,11 @@ getgenv().Key = " 6f1e849ad24da1c69c0227b4"
     }
 loadstring(game:HttpGet("https://raw.githubusercontent.com/obiiyeuem/vthangsitink/main/BananaCat-kaitunBF.lua"))()
 AddButton(Tab1o, {
-     Name = "astral hub kh�ng n�n d�ng",
+     Name = "astral hub không nên dùng",
     Callback = function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Overgustx2/Main/refs/heads/main/BloxFruits_25.html"))()
 AddButton(Tab1o, {
      Name = "hoho get key",
     Callback = function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
+
