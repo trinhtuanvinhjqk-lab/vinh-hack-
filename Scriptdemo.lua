@@ -148,3 +148,4 @@ _G.Team = "Pirates"
 _G.FixLag = false
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
 
+
