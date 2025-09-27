@@ -141,4 +141,9 @@ AddButton(Tab1o, {
      Name = "hoho get key",
     Callback = function()
 loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()
-
+    AddButton(Tab1o, {
+     Name = "Redz Hub",
+    Callback = function()
+_G.Team = "Pirates"
+_G.FixLag = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dev-BlueX/BlueX-Hub/refs/heads/main/Main.lua"))()
